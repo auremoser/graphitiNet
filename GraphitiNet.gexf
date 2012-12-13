@@ -1,0 +1,3145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2012-12-11">
+    <creator>Gephi 0.8</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" timeformat="double" mode="dynamic">
+    <attributes class="node" mode="static">
+      <attribute id="Category" title="Category" type="string"></attribute>
+      <attribute id="Source" title="Source" type="string"></attribute>
+      <attribute id="Target" title="Target" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Aaron Douglas" label="Aaron Douglas">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="1041.4482" y="147.63994" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="ABOVE" label="ABOVE">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="195.21002" y="983.70123" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Abraham Lishinsky" label="Abraham Lishinsky">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-212.00262" y="931.2782" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Adam Kossowski" label="Adam Kossowski">
+        <attvalues>
+          <attvalue for="Category" value="Poland"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="1161.9438" y="621.0498" z="0.0"></viz:position>
+        <viz:color r="210" g="86" b="59"></viz:color>
+      </node>
+      <node id="Adam Neate" label="Adam Neate">
+        <attvalues>
+          <attvalue for="Category" value="United Kingdom"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="711.16656" y="616.00714" z="0.0"></viz:position>
+        <viz:color r="114" g="59" b="210"></viz:color>
+      </node>
+      <node id="Afsar Madad Naqvi" label="Afsar Madad Naqvi">
+        <attvalues>
+          <attvalue for="Category" value="Pakistan"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1013.2876" y="992.4604" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="141"></viz:color>
+      </node>
+      <node id="Akay" label="Akay">
+        <attvalues>
+          <attvalue for="Category" value="Sweden"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="573.71704" y="923.0628" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="196"></viz:color>
+      </node>
+      <node id="Albert Henry Krehbiel" label="Albert Henry Krehbiel">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="23.0"></viz:size>
+        <viz:position x="-418.95154" y="-664.8292" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Alec Monopoly" label="Alec Monopoly">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="23.0"></viz:size>
+        <viz:position x="188.27118" y="-615.4662" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Alexandre Orion" label="Alexandre Orion">
+        <attvalues>
+          <attvalue for="Category" value="Brazil"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-145.62776" y="143.6388" z="0.0"></viz:position>
+        <viz:color r="210" g="114" b="59"></viz:color>
+      </node>
+      <node id="Alfredo de Batuc" label="Alfredo de Batuc">
+        <attvalues>
+          <attvalue for="Category" value="Mexico"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="990.72174" y="266.60904" z="0.0"></viz:position>
+        <viz:color r="210" g="169" b="59"></viz:color>
+      </node>
+      <node id="Alfredo Ramos Martinez" label="Alfredo Ramos Martinez">
+        <attvalues>
+          <attvalue for="Category" value="Mexico"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="829.433" y="-159.55653" z="0.0"></viz:position>
+        <viz:color r="210" g="169" b="59"></viz:color>
+      </node>
+      <node id="Allan Houser" label="Allan Houser">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="1039.0233" y="1614.3462" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Alton Tobey" label="Alton Tobey">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="617.41754" y="-904.26276" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Andre" label="Andre">
+        <attvalues>
+          <attvalue for="Category" value="France"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="1811.3973" y="338.52634" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="196"></viz:color>
+      </node>
+      <node id="Andre Pierre Charles" label="Andre Pierre Charles">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-26.354757" y="-1090.332" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Andrej Bicenko" label="Andrej Bicenko">
+        <attvalues>
+          <attvalue for="Category" value="Russia"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-1046.9346" y="1242.8978" z="0.0"></viz:position>
+        <viz:color r="210" g="196" b="59"></viz:color>
+      </node>
+      <node id="Andy Council" label="Andy Council">
+        <attvalues>
+          <attvalue for="Category" value="United Kingdom"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="372.52808" y="1773.4034" z="0.0"></viz:position>
+        <viz:color r="114" g="59" b="210"></viz:color>
+      </node>
+      <node id="Antonia Gerstacker" label="Antonia Gerstacker">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="352.3395" y="-478.2795" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Archie Rand" label="Archie Rand">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-648.34644" y="519.21136" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Ash" label="Ash">
+        <attvalues>
+          <attvalue for="Category" value="France"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="270.6321" y="927.2006" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="196"></viz:color>
+      </node>
+      <node id="Ashot Melkonian" label="Ashot Melkonian">
+        <attvalues>
+          <attvalue for="Category" value="Armenia"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-542.94794" y="1045.4303" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="169"></viz:color>
+      </node>
+      <node id="August Henkel" label="August Henkel">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="675.5383" y="517.5995" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="AVANT" label="AVANT">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-788.94745" y="678.53937" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Avoid pi" label="Avoid pi">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="606.68286" y="1007.26807" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="B.N.E." label="B.N.E.">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="720.89294" y="736.8336" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Banksy" label="Banksy">
+        <attvalues>
+          <attvalue for="Category" value="United Kingdom"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-343.42468" y="594.8921" z="0.0"></viz:position>
+        <viz:color r="114" g="59" b="210"></viz:color>
+      </node>
+      <node id="Jean-Michel Basquiat" label="Jean-Michel Basquiat">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="23.0"></viz:size>
+        <viz:position x="-882.7618" y="-854.2767" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Beautiful Angle" label="Beautiful Angle">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-844.335" y="431.7404" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Bertram Goodman" label="Bertram Goodman">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="1463.1886" y="-753.03033" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Bleeps" label="Bleeps">
+        <attvalues>
+          <attvalue for="Category" value="Greece"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="432.4834" y="1096.5084" z="0.0"></viz:position>
+        <viz:color r="86" g="59" b="210"></viz:color>
+      </node>
+      <node id="Blek le Rat" label="Blek le Rat">
+        <attvalues>
+          <attvalue for="Category" value="France"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1144.2222" y="-253.11731" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="196"></viz:color>
+      </node>
+      <node id="Blu" label="Blu">
+        <attvalues>
+          <attvalue for="Category" value="Italy"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="1806.6868" y="693.4816" z="0.0"></viz:position>
+        <viz:color r="169" g="59" b="210"></viz:color>
+      </node>
+      <node id="Borf" label="Borf">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-468.48563" y="-43.00243" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="C215" label="C215">
+        <attvalues>
+          <attvalue for="Category" value="France"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="552.4694" y="711.2978" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="196"></viz:color>
+      </node>
+      <node id="Cartrain" label="Cartrain">
+        <attvalues>
+          <attvalue for="Category" value="United Kingdom"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-99.80461" y="-238.12811" z="0.0"></viz:position>
+        <viz:color r="114" g="59" b="210"></viz:color>
+      </node>
+      <node id="Cesare Stea" label="Cesare Stea">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="1033.8035" y="-697.25714" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Chanoir" label="Chanoir">
+        <attvalues>
+          <attvalue for="Category" value="Spain"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="2069.3591" y="594.5158" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="114"></viz:color>
+      </node>
+      <node id="Charles Alston" label="Charles Alston">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="578.54004" y="-44.684807" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Charles Ragland Bunnell" label="Charles Ragland Bunnell">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="23.0"></viz:size>
+        <viz:position x="1407.1376" y="-281.2816" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Chico" label="Chico">
+        <attvalues>
+          <attvalue for="Category" value="Egypt"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-721.0919" y="-44.461018" z="0.0"></viz:position>
+        <viz:color r="210" g="141" b="59"></viz:color>
+      </node>
+      <node id="Chiho Aoshima" label="Chiho Aoshima">
+        <attvalues>
+          <attvalue for="Category" value="Japan"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="750.2264" y="1226.2386" z="0.0"></viz:position>
+        <viz:color r="114" g="210" b="59"></viz:color>
+      </node>
+      <node id="Chor Boogie" label="Chor Boogie">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="1202.9514" y="1234.7795" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Chris Johanson" label="Chris Johanson">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1035.734" y="-1025.6405" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Civilian" label="Civilian">
+        <attvalues>
+          <attvalue for="Category" value="Australia"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-350.26974" y="29.418234" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="169"></viz:color>
+      </node>
+      <node id="Cool &quot;Disco&quot; Dan" label="Cool &quot;Disco&quot; Dan">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="1050.7673" y="680.1812" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Cope2" label="Cope2">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-414.30917" y="842.4819" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Cutup" label="Cutup">
+        <attvalues>
+          <attvalue for="Category" value="United Kingdom"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="1398.8182" y="784.7276" z="0.0"></viz:position>
+        <viz:color r="114" g="59" b="210"></viz:color>
+      </node>
+      <node id="D. Putnam Brinley" label="D. Putnam Brinley">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-307.2198" y="-186.52005" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Dan Witz" label="Dan Witz">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="308.25775" y="718.0324" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Darco" label="Darco">
+        <attvalues>
+          <attvalue for="Category" value="Germany"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="1871.8694" y="-398.65308" z="0.0"></viz:position>
+        <viz:color r="169" g="210" b="59"></viz:color>
+      </node>
+      <node id="David Alfaro Siqueiros" label="David Alfaro Siqueiros">
+        <attvalues>
+          <attvalue for="Category" value="Mexico"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="1613.1635" y="548.1467" z="0.0"></viz:position>
+        <viz:color r="210" g="169" b="59"></viz:color>
+      </node>
+      <node id="David Karfunkle" label="David Karfunkle">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="1257.4475" y="-489.90863" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="David Margolis" label="David Margolis">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-981.36316" y="812.3172" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Diego Rivera" label="Diego Rivera">
+        <attvalues>
+          <attvalue for="Category" value="Mexico"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="963.16046" y="395.1952" z="0.0"></viz:position>
+        <viz:color r="210" g="169" b="59"></viz:color>
+      </node>
+      <node id="Dillon Boy" label="Dillon Boy">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="2161.523" y="18.766293" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Dlux" label="Dlux">
+        <attvalues>
+          <attvalue for="Category" value="Australia"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-83.72353" y="-104.909645" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="169"></viz:color>
+      </node>
+      <node id="Dolk" label="Dolk">
+        <attvalues>
+          <attvalue for="Category" value="Norway"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-549.70624" y="-247.86562" z="0.0"></viz:position>
+        <viz:color r="59" g="196" b="210"></viz:color>
+      </node>
+      <node id="El Bocho" label="El Bocho">
+        <attvalues>
+          <attvalue for="Category" value="Germany"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-988.8588" y="-662.71106" z="0.0"></viz:position>
+        <viz:color r="169" g="210" b="59"></viz:color>
+      </node>
+      <node id="El Celso" label="El Celso">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-283.3502" y="-95.600334" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="El Teneen" label="El Teneen">
+        <attvalues>
+          <attvalue for="Category" value="Egypt"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="65.770256" y="665.76276" z="0.0"></viz:position>
+        <viz:color r="210" g="141" b="59"></viz:color>
+      </node>
+      <node id="El Xupet Negre" label="El Xupet Negre">
+        <attvalues>
+          <attvalue for="Category" value="Spain"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1691.0209" y="615.3407" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="114"></viz:color>
+      </node>
+      <node id="Ellis Gallagher" label="Ellis Gallagher">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1753.0348" y="259.91922" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Esm-Articficial" label="Esm-Articficial">
+        <attvalues>
+          <attvalue for="Category" value="Canada"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-410.12253" y="-1613.7463" z="0.0"></viz:position>
+        <viz:color r="86" g="210" b="59"></viz:color>
+      </node>
+      <node id="Ever" label="Ever">
+        <attvalues>
+          <attvalue for="Category" value="Argentina"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-160.40639" y="616.2297" z="0.0"></viz:position>
+        <viz:color r="196" g="210" b="59"></viz:color>
+      </node>
+      <node id="Faile" label="Faile">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-882.70526" y="24.401892" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Fernando Castro Pacheco" label="Fernando Castro Pacheco">
+        <attvalues>
+          <attvalue for="Category" value="Mexico"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="1308.1113" y="-915.2946" z="0.0"></viz:position>
+        <viz:color r="210" g="169" b="59"></viz:color>
+      </node>
+      <node id="Fred Fowler" label="Fred Fowler">
+        <attvalues>
+          <attvalue for="Category" value="Australia"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-237.29547" y="-1414.7151" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="169"></viz:color>
+      </node>
+      <node id="Gabriel Flores" label="Gabriel Flores">
+        <attvalues>
+          <attvalue for="Category" value="Mexico"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="590.5089" y="85.44832" z="0.0"></viz:position>
+        <viz:color r="210" g="169" b="59"></viz:color>
+      </node>
+      <node id="Ganzeer" label="Ganzeer">
+        <attvalues>
+          <attvalue for="Category" value="Egypt"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-828.41425" y="-355.437" z="0.0"></viz:position>
+        <viz:color r="210" g="141" b="59"></viz:color>
+      </node>
+      <node id="Gia Bugadze" label="Gia Bugadze">
+        <attvalues>
+          <attvalue for="Category" value="Georgia"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="1475.3519" y="119.166855" z="0.0"></viz:position>
+        <viz:color r="196" g="59" b="210"></viz:color>
+      </node>
+      <node id="Graffiti Research Lab" label="Graffiti Research Lab">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1108.3336" y="-1391.6525" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Gustaf Dalstrom" label="Gustaf Dalstrom">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="755.9546" y="-971.0873" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Ha-Ha" label="Ha-Ha">
+        <attvalues>
+          <attvalue for="Category" value="Australia"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-664.1997" y="-555.0704" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="169"></viz:color>
+      </node>
+      <node id="Hans Bock" label="Hans Bock">
+        <attvalues>
+          <attvalue for="Category" value="Switzerland"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1710.9471" y="-771.7986" z="0.0"></viz:position>
+        <viz:color r="59" g="169" b="210"></viz:color>
+      </node>
+      <node id="Herb Roe" label="Herb Roe">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="1345.0874" y="404.988" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="I08" label="I08">
+        <attvalues>
+          <attvalue for="Category" value="Italy"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="1221.0063" y="-1328.5966" z="0.0"></viz:position>
+        <viz:color r="169" g="59" b="210"></viz:color>
+      </node>
+      <node id="Ilya Bolotowsky" label="Ilya Bolotowsky">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="24.0"></viz:size>
+        <viz:position x="-324.71805" y="-488.53625" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Inkie" label="Inkie">
+        <attvalues>
+          <attvalue for="Category" value="United Kingdom"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1040.8395" y="-1232.9915" z="0.0"></viz:position>
+        <viz:color r="114" g="59" b="210"></viz:color>
+      </node>
+      <node id="Invader" label="Invader">
+        <attvalues>
+          <attvalue for="Category" value="France"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-238.30962" y="-1896.746" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="196"></viz:color>
+      </node>
+      <node id="Ion Theodorescu-Sion" label="Ion Theodorescu-Sion">
+        <attvalues>
+          <attvalue for="Category" value="Romania"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1125.4353" y="-565.3473" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="114"></viz:color>
+      </node>
+      <node id="James Brooks" label="James Brooks">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="1215.9862" y="-216.56802" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="James Michael Newell" label="James Michael Newell">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1294.9125" y="689.0608" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Jef Aerosol" label="Jef Aerosol">
+        <attvalues>
+          <attvalue for="Category" value="France"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1114.4636" y="-353.43033" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="196"></viz:color>
+      </node>
+      <node id="Joan Miro" label="Joan Miro">
+        <attvalues>
+          <attvalue for="Category" value="Spain"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="1132.9261" y="524.8062" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="114"></viz:color>
+      </node>
+      <node id="John Fekner" label="John Fekner">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-361.37436" y="697.2781" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="John T. Biggers" label="John T. Biggers">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="2182.1233" y="115.513176" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="John White Alexander" label="John White Alexander">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="1138.3325" y="-90.9359" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Jordi Bonet" label="Jordi Bonet">
+        <attvalues>
+          <attvalue for="Category" value="Canada"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-58.929825" y="83.74122" z="0.0"></viz:position>
+        <viz:color r="86" g="210" b="59"></viz:color>
+      </node>
+      <node id="Jorge Figueroa Acosta" label="Jorge Figueroa Acosta">
+        <attvalues>
+          <attvalue for="Category" value="Mexico"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-875.60046" y="-1675.3181" z="0.0"></viz:position>
+        <viz:color r="210" g="169" b="59"></viz:color>
+      </node>
+      <node id="Jose Clemente Orozco" label="Jose Clemente Orozco">
+        <attvalues>
+          <attvalue for="Category" value="Mexico"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="457.82675" y="149.8366" z="0.0"></viz:position>
+        <viz:color r="210" g="169" b="59"></viz:color>
+      </node>
+      <node id="Jose Liard" label="Jose Liard">
+        <attvalues>
+          <attvalue for="Category" value="Uruguay"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1506.9691" y="-274.22073" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="86"></viz:color>
+      </node>
+      <node id="Joseph Southall" label="Joseph Southall">
+        <attvalues>
+          <attvalue for="Category" value="United Kingdom"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="401.70468" y="-1636.508" z="0.0"></viz:position>
+        <viz:color r="114" g="59" b="210"></viz:color>
+      </node>
+      <node id="Josh MacPhee" label="Josh MacPhee">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-232.05157" y="-1677.4314" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="JR" label="JR">
+        <attvalues>
+          <attvalue for="Category" value="France"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-806.25604" y="-729.8963" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="196"></viz:color>
+      </node>
+      <node id="Juan Mirabal" label="Juan Mirabal">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="129.83044" y="-45.55066" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Judy Baca" label="Judy Baca">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-691.531" y="-1118.9872" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Judy Taylor" label="Judy Taylor">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1461.6979" y="-862.97815" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="KAWS" label="KAWS">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="897.64923" y="-1462.6057" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Keizer" label="Keizer">
+        <attvalues>
+          <attvalue for="Category" value="Egypt"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-855.03973" y="-500.3861" z="0.0"></viz:position>
+        <viz:color r="210" g="141" b="59"></viz:color>
+      </node>
+      <node id="Kenyon Cox" label="Kenyon Cox">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="839.32404" y="-429.31357" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="King Robbo" label="King Robbo">
+        <attvalues>
+          <attvalue for="Category" value="United Kingdom"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-2166.0085" y="226.15372" z="0.0"></viz:position>
+        <viz:color r="114" g="59" b="210"></viz:color>
+      </node>
+      <node id="Knitta" label="Knitta">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="74.96358" y="-1675.9124" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Knox Martin" label="Knox Martin">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="1056.5004" y="-361.18045" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Lady Pink" label="Lady Pink">
+        <attvalues>
+          <attvalue for="Category" value="Ecuador"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1395.1445" y="-773.24347" z="0.0"></viz:position>
+        <viz:color r="59" g="141" b="210"></viz:color>
+      </node>
+      <node id="Louis Ferstadt" label="Louis Ferstadt">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="710.76013" y="-1576.5099" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Louise Brann" label="Louise Brann">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="648.7969" y="-662.3614" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Malaquias Montoya" label="Malaquias Montoya">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-541.5104" y="-1352.9333" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Mark Jenkins" label="Mark Jenkins">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-405.11847" y="371.03595" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Mark Miremont" label="Mark Miremont">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-324.17792" y="779.99536" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Meek" label="Meek">
+        <attvalues>
+          <attvalue for="Category" value="Australia"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-398.793" y="-213.43242" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="169"></viz:color>
+      </node>
+      <node id="Melanie Stimmell" label="Melanie Stimmell">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="40.741123" y="545.8629" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Melchor Peredo" label="Melchor Peredo">
+        <attvalues>
+          <attvalue for="Category" value="Mexico"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="1459.9365" y="350.2491" z="0.0"></viz:position>
+        <viz:color r="210" g="169" b="59"></viz:color>
+      </node>
+      <node id="Mini Graff" label="Mini Graff">
+        <attvalues>
+          <attvalue for="Category" value="Australia"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="391.78186" y="-815.7074" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="169"></viz:color>
+      </node>
+      <node id="Miss Van" label="Miss Van">
+        <attvalues>
+          <attvalue for="Category" value="France"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="1897.2347" y="378.03262" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="196"></viz:color>
+      </node>
+      <node id="Morley" label="Morley">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1838.8804" y="-132.86247" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Neckface" label="Neckface">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-400.81845" y="993.44745" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Nick Walker" label="Nick Walker">
+        <attvalues>
+          <attvalue for="Category" value="United Kingdom"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-925.45746" y="-593.67694" z="0.0"></viz:position>
+        <viz:color r="114" g="59" b="210"></viz:color>
+      </node>
+      <node id="Nsumi" label="Nsumi">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-299.4329" y="422.95523" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Olek" label="Olek">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-126.052155" y="314.88226" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Os Gemeos" label="Os Gemeos">
+        <attvalues>
+          <attvalue for="Category" value="Brazil"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1151.2732" y="493.338" z="0.0"></viz:position>
+        <viz:color r="210" g="114" b="59"></viz:color>
+      </node>
+      <node id="Paul du toit" label="Paul du toit">
+        <attvalues>
+          <attvalue for="Category" value="South Africa"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-94.0266" y="-419.42587" z="0.0"></viz:position>
+        <viz:color r="59" g="86" b="210"></viz:color>
+      </node>
+      <node id="Pez" label="Pez">
+        <attvalues>
+          <attvalue for="Category" value="Spain"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-113.58007" y="723.58057" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="114"></viz:color>
+      </node>
+      <node id="Phibs" label="Phibs">
+        <attvalues>
+          <attvalue for="Category" value="Australia"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-724.3345" y="-300.2581" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="169"></viz:color>
+      </node>
+      <node id="Pierre Schwarz" label="Pierre Schwarz">
+        <attvalues>
+          <attvalue for="Category" value="Brussels"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="560.8709" y="-1090.7693" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="59"></viz:color>
+      </node>
+      <node id="Pobel" label="Pobel">
+        <attvalues>
+          <attvalue for="Category" value="Norway"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-906.6748" y="-174.05544" z="0.0"></viz:position>
+        <viz:color r="59" g="196" b="210"></viz:color>
+      </node>
+      <node id="Poster Boy" label="Poster Boy">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-2179.3801" y="455.60883" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Posterchild" label="Posterchild">
+        <attvalues>
+          <attvalue for="Category" value="Canada"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-625.24335" y="-101.693504" z="0.0"></viz:position>
+        <viz:color r="86" g="210" b="59"></viz:color>
+      </node>
+      <node id="Prism" label="Prism">
+        <attvalues>
+          <attvalue for="Category" value="Australia"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-896.06793" y="-70.79417" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="169"></viz:color>
+      </node>
+      <node id="Priz-one" label="Priz-one">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1405.4319" y="549.9895" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Rainer Maria Latzke" label="Rainer Maria Latzke">
+        <attvalues>
+          <attvalue for="Category" value="Germany"></attvalue>
+        </attvalues>
+        <viz:size value="24.0"></viz:size>
+        <viz:position x="1052.9344" y="457.703" z="0.0"></viz:position>
+        <viz:color r="169" g="210" b="59"></viz:color>
+      </node>
+      <node id="Ralph (Ralf) Henricksen" label="Ralph (Ralf) Henricksen">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1551.6667" y="763.972" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Reminisce" label="Reminisce">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1229.7695" y="-712.3588" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Rex Whistler" label="Rex Whistler">
+        <attvalues>
+          <attvalue for="Category" value="England"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="1510.343" y="669.41425" z="0.0"></viz:position>
+        <viz:color r="59" g="59" b="210"></viz:color>
+      </node>
+      <node id="Richard Haas" label="Richard Haas">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-248.12584" y="496.48813" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Rinaldo Cuneo" label="Rinaldo Cuneo">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="216.87259" y="-162.39139" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="ROA" label="ROA">
+        <attvalues>
+          <attvalue for="Category" value="Belgium"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-844.0425" y="1100.073" z="0.0"></viz:position>
+        <viz:color r="141" g="59" b="210"></viz:color>
+      </node>
+      <node id="Robert Dafford" label="Robert Dafford">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1896.2924" y="-578.95044" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Robert Del Naja" label="Robert Del Naja">
+        <attvalues>
+          <attvalue for="Category" value="United Kingdom"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-19.514286" y="1045.0286" z="0.0"></viz:position>
+        <viz:color r="114" g="59" b="210"></viz:color>
+      </node>
+      <node id="Roberto Cueva del Rio" label="Roberto Cueva del Rio">
+        <attvalues>
+          <attvalue for="Category" value="Mexico"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="276.25888" y="25.645638" z="0.0"></viz:position>
+        <viz:color r="210" g="169" b="59"></viz:color>
+      </node>
+      <node id="Ron English" label="Ron English">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="1239.3434" y="987.1586" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Ruth Egri" label="Ruth Egri">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1282.6339" y="1057.9999" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Sadequain" label="Sadequain">
+        <attvalues>
+          <attvalue for="Category" value="Pakistan"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-481.44662" y="1242.8662" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="141"></viz:color>
+      </node>
+      <node id="Salvador Torres" label="Salvador Torres">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1067.195" y="-1149.6848" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="SAMO" label="SAMO">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-582.3481" y="-1089.7719" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Sane Smith" label="Sane Smith">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1352.0902" y="-1216.9073" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Satish Gujral" label="Satish Gujral">
+        <attvalues>
+          <attvalue for="Category" value="India"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-738.8461" y="753.19696" z="0.0"></viz:position>
+        <viz:color r="141" g="210" b="59"></viz:color>
+      </node>
+      <node id="Seen" label="Seen">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1129.359" y="1378.1184" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Seymour Fogel" label="Seymour Fogel">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="7.0026855" y="-858.571" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Shephard Fairey" label="Shephard Fairey">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1123.9617" y="253.54549" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Sickboy" label="Sickboy">
+        <attvalues>
+          <attvalue for="Category" value="United Kingdom"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-58.747208" y="842.2319" z="0.0"></viz:position>
+        <viz:color r="114" g="59" b="210"></viz:color>
+      </node>
+      <node id="Sixten" label="Sixten">
+        <attvalues>
+          <attvalue for="Category" value="Australia"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-718.88763" y="-192.80046" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="169"></viz:color>
+      </node>
+      <node id="Smear" label="Smear">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="651.6115" y="1093.869" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Stash Maleski" label="Stash Maleski">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="963.12555" y="925.42645" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Stik" label="Stik">
+        <attvalues>
+          <attvalue for="Category" value="United Kingdom"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="367.4918" y="1025.5898" z="0.0"></viz:position>
+        <viz:color r="114" g="59" b="210"></viz:color>
+      </node>
+      <node id="Stormie Mills" label="Stormie Mills">
+        <attvalues>
+          <attvalue for="Category" value="Australia"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-1506.5662" y="420.80826" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="169"></viz:color>
+      </node>
+      <node id="Swoon" label="Swoon">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-1633.8949" y="68.150345" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Sync" label="Sync">
+        <attvalues>
+          <attvalue for="Category" value="Australia"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-888.7317" y="-269.66995" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="169"></viz:color>
+      </node>
+      <node id="TAKI 183" label="TAKI 183">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-2058.092" y="630.57104" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Tejn" label="Tejn">
+        <attvalues>
+          <attvalue for="Category" value="Denmark"></attvalue>
+        </attvalues>
+        <viz:size value="23.0"></viz:size>
+        <viz:position x="-560.8167" y="21.95058" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="59"></viz:color>
+      </node>
+      <node id="Tim Conlon" label="Tim Conlon">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-459.58447" y="85.87192" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Traian Trestioreanu" label="Traian Trestioreanu">
+        <attvalues>
+          <attvalue for="Category" value="Romania"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1686.3778" y="-513.11707" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="114"></viz:color>
+      </node>
+      <node id="Tsang Tsou Choi" label="Tsang Tsou Choi">
+        <attvalues>
+          <attvalue for="Category" value="Hong Kong"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="531.3671" y="1500.2917" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="86"></viz:color>
+      </node>
+      <node id="Tyrus Wong" label="Tyrus Wong">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="760.7576" y="1435.1824" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="Undenk" label="Undenk">
+        <attvalues>
+          <attvalue for="Category" value="Germany"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="72.31662" y="1712.4052" z="0.0"></viz:position>
+        <viz:color r="169" g="210" b="59"></viz:color>
+      </node>
+      <node id="Vexta" label="Vexta">
+        <attvalues>
+          <attvalue for="Category" value="Australia"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-593.67505" y="1519.7926" z="0.0"></viz:position>
+        <viz:color r="59" g="210" b="169"></viz:color>
+      </node>
+      <node id="William Laurel Harris" label="William Laurel Harris">
+        <attvalues>
+          <attvalue for="Category" value="United States of America"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1686.3989" y="199.9528" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="141"></viz:color>
+      </node>
+      <node id="William Perehudoff" label="William Perehudoff">
+        <attvalues>
+          <attvalue for="Category" value="Canada"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1206.5225" y="343.83954" z="0.0"></viz:position>
+        <viz:color r="86" g="210" b="59"></viz:color>
+      </node>
+      <node id="Xavier Gonzalez" label="Xavier Gonzalez">
+        <attvalues>
+          <attvalue for="Category" value="Spain"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-1348.6261" y="-568.88635" z="0.0"></viz:position>
+        <viz:color r="210" g="59" b="114"></viz:color>
+      </node>
+      <node id="Harlem Renaissance" label="Harlem Renaissance">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="41.42857"></viz:size>
+        <viz:position x="1401.6995" y="8.27638" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Social Realism" label="Social Realism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="44.285713"></viz:size>
+        <viz:position x="1710.7056" y="238.90123" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Street Art" label="Street Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="417.1824" y="836.70935" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Italian Renaissance" label="Italian Renaissance">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="194.72778" y="602.0751" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Sacred Art" label="Sacred Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="371.65775" y="655.5349" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Dada" label="Dada">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="386.54874" y="508.28778" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Indian Art" label="Indian Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-867.2011" y="932.69507" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Impressionism" label="Impressionism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="44.285713"></viz:size>
+        <viz:position x="540.3331" y="-261.95" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Neoclassicism" label="Neoclassicism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="54.777363" y="-553.0402" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Abstract Art" label="Abstract Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="44.285713"></viz:size>
+        <viz:position x="-149.21045" y="-761.86554" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Surrealism" label="Surrealism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="43.333332"></viz:size>
+        <viz:position x="271.39114" y="221.43666" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Modernism" label="Modernism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="366.15408" y="-103.884766" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="American Indian Art" label="American Indian Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1123.2161" y="1500.5295" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Realism" label="Realism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="42.38095"></viz:size>
+        <viz:position x="1044.4067" y="-834.19244" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Comic Art" label="Comic Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="41.904762"></viz:size>
+        <viz:position x="2220.2559" y="458.70767" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Neo-expressionism" label="Neo-expressionism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="41.904762"></viz:size>
+        <viz:position x="-144.09818" y="-996.6332" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Neo-byzantine" label="Neo-byzantine">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1117.7274" y="1123.2703" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Russian Realism" label="Russian Realism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-839.72894" y="1190.595" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Underground Art" label="Underground Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="180.2626" y="1836.7126" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Conceptual Art" label="Conceptual Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="41.42857"></viz:size>
+        <viz:position x="-1073.3805" y="105.9887" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Color Field" label="Color Field">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-757.4746" y="314.98376" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Neo-Realism" label="Neo-Realism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-690.5316" y="880.12146" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Guerrilla Art" label="Guerrilla Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="41.904762"></viz:size>
+        <viz:position x="-914.0557" y="604.03925" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Primitivism" label="Primitivism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-379.58817" y="-888.42377" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Federal Art Project" label="Federal Art Project">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="42.38095"></viz:size>
+        <viz:position x="1949.3915" y="-600.2111" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Artivism" label="Artivism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="496.81683" y="1164.4569" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Poster Art" label="Poster Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="42.857143"></viz:size>
+        <viz:position x="-1430.2336" y="-417.7943" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Video Art" label="Video Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1627.4075" y="722.55927" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Stencil Art" label="Stencil Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="49.04762"></viz:size>
+        <viz:position x="-1349.9684" y="-198.2036" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Cubism" label="Cubism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="42.857143"></viz:size>
+        <viz:position x="-400.77298" y="-343.1323" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Sculpture" label="Sculpture">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1215.5753" y="-618.91064" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Abstract Expressionism" label="Abstract Expressionism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="41.904762"></viz:size>
+        <viz:position x="2161.3289" y="-121.46563" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Superflat" label="Superflat">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="627.3204" y="1286.5084" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Spray Paint Art" label="Spray Paint Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1046.5062" y="1167.7223" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Color Therapy" label="Color Therapy">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1281.7974" y="1104.9564" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Mission School" label="Mission School">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1084.2776" y="-922.069" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Billboard Art" label="Billboard Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1317.406" y="852.3509" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Modern Art" label="Modern Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-226.1243" y="-11.371074" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Color Theory" label="Color Theory">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1776.2798" y="-209.91449" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="WPA" label="WPA">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="41.904762"></viz:size>
+        <viz:position x="-1347.802" y="898.09625" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="illustration" label="illustration">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1814.8762" y="138.05449" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Tag Art" label="Tag Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="41.904762"></viz:size>
+        <viz:position x="-1794.6765" y="517.6271" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Subway Art" label="Subway Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="42.38095"></viz:size>
+        <viz:position x="-2067.22" y="357.3098" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Printmaking" label="Printmaking">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="41.42857"></viz:size>
+        <viz:position x="-129.5894" y="-1519.1737" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Satirist" label="Satirist">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-574.23425" y="-1438.2191" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Wheatpasting" label="Wheatpasting">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="41.42857"></viz:size>
+        <viz:position x="-1388.162" y="-6.0973015" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="New Media" label="New Media">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="41.42857"></viz:size>
+        <viz:position x="-1218.2848" y="-1305.0164" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Mural Art" label="Mural Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="42.857143"></viz:size>
+        <viz:position x="-1658.8347" y="-653.0302" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Baroque" label="Baroque">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1833.3523" y="592.34686" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Environmental Art" label="Environmental Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1177.6538" y="-1238.9049" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="De Stijl" label="De Stijl">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-443.5559" y="-565.1252" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Geometric Abstract Art" label="Geometric Abstract Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-778.6268" y="-425.88324" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Mosaic Art" label="Mosaic Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-374.80582" y="-1827.493" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Fauvism" label="Fauvism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="322.2982" y="-677.9378" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Divisionism" label="Divisionism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="463.6895" y="-534.11816" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Academic Art" label="Academic Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="691.8432" y="-569.7592" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Art Nouveau" label="Art Nouveau">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="834.241" y="-519.36053" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Synthetism" label="Synthetism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="249.68039" y="-361.80588" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Post-Impressionism" label="Post-Impressionism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="540.6569" y="-737.2035" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Symbolism" label="Symbolism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="670.9139" y="-364.72958" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Lyrical Abstraction" label="Lyrical Abstraction">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1519.1185" y="-348.5741" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Neo-figurative" label="Neo-figurative">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-866.67706" y="-1526.4141" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Scenography" label="Scenography">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1850.5597" y="-328.81778" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Arts and Crafts" label="Arts and Crafts">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="345.8503" y="-1730.7246" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Photorealism" label="Photorealism">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-959.242" y="-778.0307" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Chicano" label="Chicano">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="41.42857"></viz:size>
+        <viz:position x="-612.54596" y="-1242.4583" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Comic Artist" label="Comic Artist">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="823.073" y="-1529.7612" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Political Art" label="Political Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1119.2275" y="-515.08887" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Installations" label="Installations">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="42.38095"></viz:size>
+        <viz:position x="-500.49255" y="228.35765" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Trompe l'oeil" label="Trompe l'oeil">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="41.42857"></viz:size>
+        <viz:position x="384.78827" y="376.13718" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Renaissance" label="Renaissance">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="130.01413" y="453.2297" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Audubon" label="Audubon">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-595.61804" y="1122.2955" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Calligraphy" label="Calligraphy">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-539.4798" y="1323.2454" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Tattoo Art" label="Tattoo Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1035.5269" y="1432.913" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Collage Art" label="Collage Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="889.27527" y="1033.078" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Contemporary Art" label="Contemporary Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1054.0337" y="794.5977" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Cut-out" label="Cut-out">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1855.8611" y="65.372986" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Chinese Art" label="Chinese Art">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="699.82153" y="1559.002" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Stencil" label="Stencil">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-743.1514" y="1575.3098" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+      <node id="Pre-Raphaelite Brotherhood" label="Pre-Raphaelite Brotherhood">
+        <attvalues>
+          <attvalue for="Category" value="Movement"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-2007.3047" y="132.55804" z="0.0"></viz:position>
+        <viz:color r="173" g="173" b="173"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Harlem Renaissance" target="Aaron Douglas">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Harlem Renaissance" target="Charles Alston">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Harlem Renaissance" target="John T. Biggers">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Social Realism" target="Aaron Douglas">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Social Realism" target="Alfredo de Batuc">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Social Realism" target="August Henkel">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Social Realism" target="David Alfaro Siqueiros">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Social Realism" target="Diego Rivera">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Social Realism" target="Gabriel Flores">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Social Realism" target="Gia Bugadze">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Social Realism" target="Jose Clemente Orozco">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Social Realism" target="Melchor Peredo">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="ABOVE">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="Abraham Lishinsky">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="Akay">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="Ash">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="Avoid pi">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="B.N.E.">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="Banksy">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="Bleeps">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="C215">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="Cool &quot;Disco&quot; Dan">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="Cope2">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="Dan Witz">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="El Teneen">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="Ever">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="Mark Miremont">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="Melanie Stimmell">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="Neckface">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="Pez">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="Robert Del Naja">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="Sickboy">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Street Art" target="Stik">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Italian Renaissance" target="Adam Kossowski">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Italian Renaissance" target="Rainer Maria Latzke">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sacred Art" target="Adam Kossowski">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Dada" target="Adam Neate">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Dada" target="Joan Miro">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Indian Art" target="Afsar Madad Naqvi">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Indian Art" target="Satish Gujral">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Impressionism" target="Albert Henry Krehbiel">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Impressionism" target="Alec Monopoly">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Impressionism" target="Alfredo Ramos Martinez">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Impressionism" target="Antonia Gerstacker">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Impressionism" target="D. Putnam Brinley">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Impressionism" target="Ion Theodorescu-Sion">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Impressionism" target="John White Alexander">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Impressionism" target="Rinaldo Cuneo">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Impressionism" target="Roberto Cueva del Rio">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Neoclassicism" target="Albert Henry Krehbiel">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Neoclassicism" target="Alec Monopoly">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Abstract Art" target="Albert Henry Krehbiel">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Abstract Art" target="Alec Monopoly">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Abstract Art" target="Alton Tobey">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Abstract Art" target="Antonia Gerstacker">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Abstract Art" target="Jean-Michel Basquiat">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Abstract Art" target="Ilya Bolotowsky">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Abstract Art" target="Mini Graff">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Abstract Art" target="Paul du toit">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Abstract Art" target="Seymour Fogel">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Surrealism" target="Alexandre Orion">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Surrealism" target="Alfredo de Batuc">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Surrealism" target="Gabriel Flores">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Surrealism" target="Joan Miro">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Surrealism" target="Jordi Bonet">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Surrealism" target="Rainer Maria Latzke">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Surrealism" target="Roberto Cueva del Rio">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Modernism" target="Alfredo Ramos Martinez">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Modernism" target="Rinaldo Cuneo">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="American Indian Art" target="Allan Houser">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Realism" target="Alton Tobey">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Realism" target="Bertram Goodman">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Realism" target="Fernando Castro Pacheco">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Realism" target="Gustaf Dalstrom">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Realism" target="Ion Theodorescu-Sion">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Comic Art" target="Andre">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Comic Art" target="Blu">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Comic Art" target="Chanoir">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Comic Art" target="Miss Van">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Neo-expressionism" target="Andre Pierre Charles">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Neo-expressionism" target="Jean-Michel Basquiat">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Neo-expressionism" target="Pierre Schwarz">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Neo-expressionism" target="SAMO">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Neo-byzantine" target="Andrej Bicenko">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Russian Realism" target="Andrej Bicenko">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Underground Art" target="Andy Council">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Underground Art" target="Undenk">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Conceptual Art" target="Archie Rand">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Conceptual Art" target="El Celso">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Conceptual Art" target="Tejn">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Color Field" target="Archie Rand">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Color Field" target="William Perehudoff">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Neo-Realism" target="Ashot Melkonian">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Guerrilla Art" target="AVANT">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Guerrilla Art" target="Beautiful Angle">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Guerrilla Art" target="John Fekner">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Guerrilla Art" target="Nsumi">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Primitivism" target="Jean-Michel Basquiat">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Federal Art Project" target="Bertram Goodman">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Federal Art Project" target="Cesare Stea">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Federal Art Project" target="Charles Ragland Bunnell">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Federal Art Project" target="David Karfunkle">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Federal Art Project" target="Louise Brann">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Artivism" target="Bleeps">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Poster Art" target="Blek le Rat">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Poster Art" target="El Bocho">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Poster Art" target="JR">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Poster Art" target="Keizer">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Poster Art" target="Sixten">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Poster Art" target="Sync">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Video Art" target="Blu">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Borf">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Cartrain">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Chico">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Civilian">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Dlux">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Dolk">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Faile">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Ganzeer">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Ha-Ha">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Jef Aerosol">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Meek">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Nick Walker">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Phibs">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Pobel">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Posterchild">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Prism">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Shephard Fairey">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Sixten">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil Art" target="Tejn">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Cubism" target="Cartrain">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Cubism" target="Charles Ragland Bunnell">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Cubism" target="Ilya Bolotowsky">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Cubism" target="Ion Theodorescu-Sion">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Cubism" target="Juan Mirabal">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Cubism" target="Paul du toit">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sculpture" target="Cesare Stea">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Abstract Expressionism" target="Charles Alston">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Abstract Expressionism" target="Charles Ragland Bunnell">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Abstract Expressionism" target="James Brooks">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Abstract Expressionism" target="Knox Martin">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Superflat" target="Chiho Aoshima">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Spray Paint Art" target="Chor Boogie">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Color Therapy" target="Chor Boogie">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Mission School" target="Chris Johanson">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Mission School" target="Reminisce">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Billboard Art" target="Cutup">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Billboard Art" target="Ron English">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Modern Art" target="D. Putnam Brinley">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Modern Art" target="Juan Mirabal">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Color Theory" target="Darco">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="WPA" target="David Margolis">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="WPA" target="James Michael Newell">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="WPA" target="Ralph (Ralf) Henricksen">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="WPA" target="Ruth Egri">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="illustration" target="Dillon Boy">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Tag Art" target="El Xupet Negre">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Tag Art" target="Priz-one">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Tag Art" target="Stormie Mills">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Tag Art" target="TAKI 183">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Subway Art" target="Ellis Gallagher">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Subway Art" target="King Robbo">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Subway Art" target="Os Gemeos">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Subway Art" target="Poster Boy">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Subway Art" target="Stormie Mills">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Printmaking" target="Esm-Articficial">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Printmaking" target="Fred Fowler">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Printmaking" target="Josh MacPhee">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Satirist" target="Esm-Articficial">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Wheatpasting" target="Faile">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Wheatpasting" target="Morley">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Wheatpasting" target="Swoon">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Media" target="Graffiti Research Lab">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Media" target="Inkie">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Media" target="Sane Smith">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Mural Art" target="Hans Bock">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Mural Art" target="Judy Taylor">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Mural Art" target="Lady Pink">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Mural Art" target="Robert Dafford">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Mural Art" target="Traian Trestioreanu">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Mural Art" target="Xavier Gonzalez">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Baroque" target="Herb Roe">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Baroque" target="Rex Whistler">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Environmental Art" target="I08">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="De Stijl" target="Ilya Bolotowsky">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Geometric Abstract Art" target="Ilya Bolotowsky">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Mosaic Art" target="Invader">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Fauvism" target="Ion Theodorescu-Sion">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Divisionism" target="Ion Theodorescu-Sion">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Academic Art" target="Ion Theodorescu-Sion">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Art Nouveau" target="Ion Theodorescu-Sion">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Art Nouveau" target="Kenyon Cox">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Synthetism" target="Ion Theodorescu-Sion">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Post-Impressionism" target="Ion Theodorescu-Sion">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Symbolism" target="Ion Theodorescu-Sion">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Lyrical Abstraction" target="James Brooks">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Neo-figurative" target="Jorge Figueroa Acosta">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Scenography" target="Jose Liard">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Arts and Crafts" target="Joseph Southall">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Arts and Crafts" target="Knitta">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Photorealism" target="JR">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Chicano" target="Judy Baca">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Chicano" target="Malaquias Montoya">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Chicano" target="Salvador Torres">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Comic Artist" target="KAWS">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Comic Artist" target="Louis Ferstadt">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Political Art" target="Keizer">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Installations" target="Mark Jenkins">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Installations" target="Nsumi">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Installations" target="Olek">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Installations" target="Tejn">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Installations" target="Tim Conlon">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Trompe l'oeil" target="Mark Jenkins">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Trompe l'oeil" target="Rainer Maria Latzke">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Trompe l'oeil" target="Richard Haas">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Renaissance" target="Melanie Stimmell">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Renaissance" target="Rainer Maria Latzke">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Audubon" target="ROA">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Calligraphy" target="Sadequain">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Tattoo Art" target="Seen">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Collage Art" target="Smear">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Contemporary Art" target="Stash Maleski">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Cut-out" target="Swoon">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Chinese Art" target="Tsang Tsou Choi">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Chinese Art" target="Tyrus Wong">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stencil" target="Vexta">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Pre-Raphaelite Brotherhood" target="William Laurel Harris">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
