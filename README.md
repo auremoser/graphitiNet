@@ -9,7 +9,7 @@ Files in the repo represent the javascript, css/markup for a CartoDB wrapper usi
 
 Further explanation can be found in the step-by-step below.
 
-View the project as rendered on this git page: [http://auremoser.github.com/graphitiNet](http://auremoser.github.com/graphitiNet)
+View the project as rendered on this git page: [http://auremoser.github.com/graphitiNet](http://auremoser.github.com/graphitiNet/gexf-js-master/)
 
 Description
 ===========
@@ -41,7 +41,7 @@ Using the [gexf-js library](https://github.com/raphv/gexf-js), I pointed the con
 
 ### Analysis ###
 Broad conclusions about the project relate to the peculiar taxonomy of affiliated movements. As graffiti and street art developed a more substantial public art community, artists openly affiliate with more contemporary and less-formal art influences. The graffiti artists of today tend to identify with technique and are influenced primarily by situational circumstance: urban environments, political unrest/activism, and less by formalized art movements. Thus, “wheat-pasting,” “tattoo,” and “stencil art,” all focused on the more technical mechanics of art making become the dominant influences of this community. Principally self-taught, artists from non-western nations especially emphasize their debt to political situation, cultural colloquialisms, and urban landscape as motivations. Those art movements that are often referenced tend to follow this same program of motivations, with “street art” being tied to urbanism, “surrealism/dada” being tied to counterculture aesthetics, and “social realism” being tied to political activism. The imperative for independence, innovation, and resourcefulness can be read in the network of these influences.
-While it would not be fair to assess this graph without acknowledging the limitations of my own manual data cleaning and simple data set, some generalizations such as the above seem fair. A glance at the graph reveals a complex but legible network of artists culled from countries on all continents, and a fair distribution for initial movement > graffiti artist relational studies.
+While it would not be fair to assess this graph without acknowledging the limitations of my own manual data cleaning and simple data set, some generalizations such as the above seem fair. A glance at the graph reveals a complex but legible network of artists culled from countries on all continents, and a fair distribution for initial movement > graffiti artist relational studies. Check out the final product here: [http://auremoser.github.com/graphitiNet](http://auremoser.github.com/graphitiNet/gexf-js-master/)
 
 ![Final](https://raw.github.com/auremoser/images/master/final_vis-wide.png)
 
