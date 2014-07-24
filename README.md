@@ -46,3 +46,7 @@ While it would not be fair to assess this graph without acknowledging the limita
 ![Final](https://raw.github.com/auremoser/images/master/final_vis-wide.png)
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/auremoser/graphitinet/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
